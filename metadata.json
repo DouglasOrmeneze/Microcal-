@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Oz Calculadora de Resistor µA ",
+  "description": "Aplicativo educativo e vibrante para calcular a resistência necessária para limitar a corrente em microamperes baseando-se na voltagem de entrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
